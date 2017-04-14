@@ -1,6 +1,6 @@
 <?php
 
-namespace cookpan001\Pipeline\Reply;
+namespace cookpan001\Pubsub\Reply;
 
 class Bulk
 {

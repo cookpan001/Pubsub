@@ -1,8 +1,8 @@
 <?php
 
-namespace cookpan001\Pipeline;
+namespace cookpan001\Pubsub;
 
-use cookpan001\Pipeline\Reply\NoReply;
+use cookpan001\Pubsub\Reply\NoReply;
 
 class Handler
 {

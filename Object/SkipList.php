@@ -1,6 +1,6 @@
 <?php
 
-namespace cookpan001\Pipeline\Object;
+namespace cookpan001\Pubsub\Object;
 
 class SkipList
 {

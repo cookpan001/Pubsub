@@ -1,11 +1,9 @@
 <?php
 
-define('DELEGATE_ROOT', dirname(__FILE__));
-
 class MyAutoload
 {
     public $classMap = array(
-        'cookpan001\\Pipeline' => array(DELEGATE_ROOT),
+        'cookpan001\\Pubsub' => array(__DIR__),
     );
     
     public function __autoload($class_name)

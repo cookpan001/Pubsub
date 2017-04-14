@@ -1,6 +1,6 @@
 <?php
 
-namespace cookpan001\Pipeline;
+namespace cookpan001\Pubsub;
 
 class Request
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace cookpan001\Pipeline\Sync;
+namespace cookpan001\Pubsub\Sync;
 
 class File
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace cookpan001\Pipeline\Object;
+namespace cookpan001\Pubsub\Object;
 
-use cookpan001\Pipeline\Reply\OK;
+use cookpan001\Pubsub\Reply\OK;
 
 class Strings
 {
